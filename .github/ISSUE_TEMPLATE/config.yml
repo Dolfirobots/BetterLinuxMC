@@ -1,0 +1,8 @@
+blank_issues_enabled: false
+contact_links:
+  - name: "Frequently Asked Questions"
+    url: "https://github.com/Dolfirobots/BetterLinuxMC/wiki/FAQ"
+    about: "Before opening a new issue, please check the FAQ for answers to common questions."
+  - name: "Discord Server"
+    url: "https://discord.gg/m4hhckJe4v"
+    about: "If you're having trouble with your configuration, please ask for help on our Discord server!"
