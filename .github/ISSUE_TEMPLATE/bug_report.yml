@@ -1,0 +1,41 @@
+name: Bug report
+description: Create a report to help us improve
+labels: [bug]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        ## Bug Report
+        Thanks for taking the time to fill out this bug report for the **BetterLinuxMC** Tool!
+
+        Please fill out the following form to your best ability to help us fix the problem.
+
+        > 💡 Only use this form if you're sure you found a **reproducible bug**.  
+        > For support or questions, use our [Discord server](https://discord.gg/dxZTGpPbkd) or check the [FAQ](https://github.com/Dolfirobots/BetterLinuxMC/wiki/FAQ).
+
+  - type: textarea
+    attributes:
+      label: Description
+      description: A clear and concise description of what the bug is. (You can hold it short)
+    validations:
+      required: true
+
+  - type: textarea
+    attributes:
+      label: To Reproduce
+      description: Steps to reproduce this behaviour
+      placeholder: |
+        1. Install Minecraft Version 1.12...
+        2. See error: [Error] An...
+    validations:
+      required: true
+
+  - type: textarea
+    attributes:
+      label: Expected behaviour
+      description: A clear and concise description of what you expected to happen. (You can hold it short)
+
+  - type: textarea
+    attributes:
+      label: Screenshots / Videos / Logs
+      description: If applicable, add screenshots to help explain your problem.
