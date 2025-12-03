@@ -1,0 +1,37 @@
+name: "Feature request"
+description: "Suggest an idea or improvement for the BetterLinuxMC Tool"
+labels: [Feature request]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        ## Feature Request
+        Thanks for taking the time to suggest a new feature or improvement for the **BetterLinuxMC Tool**!
+
+        Please fill out this form to help us understand your idea better.
+
+        > 📝 **Before submitting:**  
+        > Check if your idea has already been suggested in the [Issues](https://github.com/Dolfirobots/BetterLinuxMC/issues).  
+        > If it has, please add a comment there so we can better track interest in that idea.
+  - type: textarea
+    attributes:
+      label: "Description of the feature"
+      description: "Clearly describe the feature or improvement you would like to see."
+      placeholder: |
+        Example: Add a automatic plugin updater.
+    validations:
+      required: true
+  - type: textarea
+    attributes:
+      label: "Why is this feature useful?"
+      description: "Explain why this feature would be useful or how it improves the plugin."
+      placeholder: |
+        Example: It would be easier and faster to update the plugins than update every plugin manually.
+  - type: textarea
+    attributes:
+      label: "Possible implementation"
+      description: "(Optional) Describe how this could be implemented or how you imagine it working."
+      placeholder: |
+        Example: Do ./server.py --update-plugins boolean or ./server.py and choose Automatic Plugin Update.
+    validations:
+      required: true
