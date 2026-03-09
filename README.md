@@ -11,14 +11,12 @@
   <a href="https://www.jetbrains.com/"><img src="https://img.shields.io/badge/jetbrains-gray?style=for-the-badge&logo=jetbrains&logoColor=green" alt="JetBrains"/></a>
   <br>
   <a href="https://discord.gg/m4hhckJe4v"><img src="https://img.shields.io/discord/1436724374622441556.svg?style=for-the-badge&logo=discord&logoColor=green&label=discord&color=green" alt="Discord"/></a>
-  <a href="https://github.com/Cyberdolfi/ServerRawler/releases/"><img src="https://shields.io/github/downloads/dolfirobots/betterlinuxmc/total?style=for-the-badge&label=downloads&color=green&logo=github&logoColor=green" alt="GitHub Downloads"/></a>
-</div>
 
 ---
 
 > [!IMPORTANT]
-> This is just some random project that I don't  
-> continue, because it unnessasery for me right now.
+> This was a side project that I no longer continue.  
+> I don't really need this project and I was too unmotivated to make a usable tool from it.
 
 ---
 
