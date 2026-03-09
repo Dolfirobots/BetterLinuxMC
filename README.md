@@ -17,15 +17,12 @@
 ---
 
 > [!IMPORTANT]
-> This project is currently in early alpha!
-> The first beta release is coming soon...  
-> I won't will work on this project all time,  
-> it's basically just a side project
+> This is just some random project that I don't  
+> continue, because it unnessasery for me right now.
 
 ---
 
-The BetterLinuxMC is an easy tool for managing and installing Minecraft servers, because I
-like the simplistic `screen` tool.
+The BetterLinuxMC is a downloader tool in Python.
 
 ---
 
@@ -36,20 +33,11 @@ like the simplistic `screen` tool.
   - Purpur
   - Velocity
 
-## ⏳ Planned
-- Cleaner installation
-- Server worker
-- Auto logs cleaner
-- Make it to a package or something other
-- Finish installer
-- Add custom jars
-- Generate start.sh
-
 ---
 
 ## 📥 Installation
 > [!IMPORTANT]
-> Currently not available
+> Not available
 
 ---
 
@@ -61,6 +49,4 @@ This project is licensed under the [MIT License](./LICENSE).
 
 ## 🤝 Contributing
 
-* Found a bug? -> [Create an issue](https://github.com/Dolfirobots/BetterLinuxMC/issues)
-* Have ideas or suggestions? -> Join my [Discord](https://discord.gg/m4hhckJe4v "Discord")
-* Want to contribute code? -> [Fork the repository](https://github.com/Dolfirobots/BetterLinuxMC/fork)
+Just fork this project, if you wanne continue it.
