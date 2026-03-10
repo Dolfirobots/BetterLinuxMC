@@ -11,6 +11,7 @@
   <a href="https://www.jetbrains.com/"><img src="https://img.shields.io/badge/jetbrains-gray?style=for-the-badge&logo=jetbrains&logoColor=green" alt="JetBrains"/></a>
   <br>
   <a href="https://discord.gg/m4hhckJe4v"><img src="https://img.shields.io/discord/1436724374622441556.svg?style=for-the-badge&logo=discord&logoColor=green&label=discord&color=green" alt="Discord"/></a>
+</div>
 
 ---
 
