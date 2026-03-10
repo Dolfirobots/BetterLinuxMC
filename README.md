@@ -16,7 +16,7 @@
 
 > [!IMPORTANT]
 > This was a side project that I no longer continue.  
-> I don't really need this project and I was too unmotivated to make a usable tool from it.
+> I don't really need this project and I was too   unmotivated to make a usable tool from it.
 
 ---
 
